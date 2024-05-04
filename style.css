@@ -1,0 +1,512 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+#wrapper {
+    width: 960px;
+    margin: auto;   
+    background-color: rgb(177, 181, 181);
+    overflow: hidden;}
+
+#info1{
+    width: 720px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 210px;
+    margin-top: 10px;
+    border-radius: 25px 25px 25px 25px;
+    
+}
+
+#coffee_place_full{
+    background-size: cover;
+    padding-top: 297px;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 10px;
+    background-image: url(images/coffee_place_full.png);
+    opacity: 0.7;
+    border-radius: 25px 25px 25px 25px;
+    
+}
+#storeloc{
+    background-image: url(images/map1.png);
+    background-size: cover;
+     padding-top: 297px;
+    margin-top: 10px;
+    margin-left: 210px;
+    margin-right: 10px;
+      border-radius: 25px 25px 25px 25px;
+}
+#pontsystem{
+ width: 720px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 210px;
+    margin-top: 10px;
+    border-radius: 25px 25px 25px 25px}
+
+#action{
+     background-color: rgba(245, 255, 0, 0.6);
+    width: 320px;
+    
+    margin-left: px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    border: solid 2px;
+    border-radius: 25px 0px 25px 0px;
+    color: rgb(250, 250, 11);
+    
+}
+#action2{
+     background-color: rgba(245, 255, 0, 0.6);
+    width: 120px;
+    
+    margin-left: px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    border: solid 2px;
+    border-radius: 0px 25px 0px 0px;
+    color: rgb(0, 0, 0);
+     font-family: impact;
+}
+#action3{
+    background-color: rgba(245, 255, 0, 0.6);
+    width: 120px;
+    
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    border: solid 2px;
+    border-radius: 0px 25px 0px 0px;
+    color: rgb(0, 0, 0);
+     font-family: impact;
+}
+#action4{
+     background-color: rgba(245, 255, 0, 0.6);
+    width: 120px;
+    
+    margin-left: px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-right: 5px;
+    border: solid 2px;
+    border-radius: 0px 25px 0px 25px;
+    color: rgb(0, 0, 0);
+    font-family: impact;
+}
+
+#row1-col1-2{
+    
+    color: rgb(255,255,255);
+    width: 960px;
+    float: left;
+    clear:both;
+}
+#row1-col1{
+    font-family: impact;
+    padding-top: 29px;
+    padding-bottom: 30px;
+    color: rgb(0, 0, 0);
+    
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    width: 815px;
+    float:left;
+}
+#row1-col2{
+    color: rgb(0, 0, 0);
+    padding-top: 0px;
+    padding-bottom: 0px;
+   
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    width: 135px;
+    float: right;}
+
+#row2{
+    margin-top: 86px;
+    
+    padding-bottom: 55px;
+    padding-top: 40px;
+    margin-bottom: 8px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(images/hustle_coffee_cup1.png), url(images/h_cup_logo_new2.png), url(images/hustle_coffee_cup2.png);
+    background-position: left, center, right;
+    background-repeat: no-repeat, no-repeat;
+    background-color: rgb(218, 240, 237);
+}
+
+body li{
+    line-height: 5px;
+    
+    padding-top: 20px;
+    padding-left: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-block;
+    font-family: impact;
+    font-size: 20px;
+    text-decoration-color: rgb(0, 0, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+#row3{
+  width: 960px;
+    float: left;
+    clear: hidden;
+}
+
+#row3-col1{
+    border-radius: 25px 25px 25px 25px;
+    padding-bottom: 343px;
+    padding-top: 0px;
+    width: 500px;
+    float: left;
+    color: rgb(255,255,255);
+    text-align: center;
+    background-image:url(images/Hustle_cup_composites.jpg);
+    background-color: rgb(250, 7, 16);
+}
+
+ 
+#row3-col2-top{
+    color: rgb(255,255,255);
+    border-radius: 25px 25px 0px 0px;
+    margin-top: 0px;
+   padding-top: 85px;
+    padding-bottom: 0px;
+     width: 445px;
+    margin-left: 10px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: rgb(250, 7, 16);
+    float:right;
+    background-image: url(images/coffee_cups1.jpg);
+}
+
+#row3-col2-mid{
+    color: rgb(255,255,255);
+    width: 445px;
+    margin-right: 5px;
+    margin-top: 11px;
+    margin-left: 10px;
+    padding-top: 85px;
+    padding-bottom: 0px;
+    background-color: rgb(250, 7, 16);
+    float: right;
+    text-align: center;
+    background-image: url(images/brew2.jpg);
+}
+
+#row3-col2-bottom{
+    
+    color: rgb(255,255,255);
+    width: 445px;
+    text-align: center;
+    float:right;
+    border-radius: 0px 0px 25px 25px;
+    margin-right: 5px;
+    margin-top: 11px;
+      padding-top: 10px;
+      padding-bottom: 0px;
+    background-color: rgb(130, 230, 239);
+    
+    
+    
+    
+    
+    
+}
+#row4{
+    border-radius: 25px 25px 0px 0px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 410px;
+    width: 960px;
+    font-family: impact;
+    font-size: 50px;
+    text-shadow: 5px 5px rgb(0, 0, 0); 
+    color: rgb(255, 226, 0);
+    text-align: center;
+   
+    background-image: url(images/coffee_place_png1.png);
+    background-color: rgb(250, 7, 16);
+    
+}
+#row5{
+    border-radius: 0px 0px 25px 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 960;
+    float: right;
+    color: rgb(255,255,255);
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: impact;
+    font-size: 50px;
+    text-shadow: 5px 5px rgb(0, 0, 0); 
+    color: rgb(255, 226, 0);
+    background-image: url(images/coffee_place_png2.png);
+    background-color: rgb(250, 7, 16);
+}
+
+#row6-col1-2{
+    padding-bottom: 10px;
+    color: rgb(255,255,255);
+    width: 640px;
+    float: left;
+    clear:both;
+}
+#row6-col1{
+    border-radius: 0px 25px 25px 25px;
+    margin-left: 5px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+    padding-top: 0px;
+    
+    text-align: center;
+    background-color: rgb(124, 205, 255);
+    
+    width: 312px;
+    float:left;
+}
+h2{
+    text-shadow: 2px 2px rgb(130, 190, 209); 
+    border-top-right-radius: 25px; 
+    font-family: stencil;
+    letter-spacing: 2px;
+    font-size: 40px;
+    background-color: rgb(218, 240, 237);
+    color: rgb(0, 0,0)
+}
+h3{
+background-color: rgb(230, 222, 0); 
+color: rgb(0, 0, 0); 
+font-size: 30px; 
+    font-family: impact;
+    
+}
+h4{
+    color: rgb(0, 0, 0);
+    font-family: stencil;
+    font-size: 30px;
+}
+h5{
+    font-size: 19px;
+    background-color: rgb(218, 240,237);
+    font-family: arial;
+}
+
+p{
+    font-family: impact;
+    font-size: 22 px;
+    color: rgb(0, 0, 0);
+    line-height: 35px;
+    
+}
+
+
+
+
+
+ul2{
+    color: rgb(0, 0, 0);
+    
+}
+
+
+
+#row6-col2{
+    border-radius: 0px 25px 25px 25px;
+    color: rgb(255,255,255);
+     padding-top: 100px;
+    padding-bottom: 100px;
+    margin-right: 3px;
+    padding-top: 0px;
+    text-align: center;
+    background-color: rgb(145, 229, 255);
+    width: 304px;
+    float: right;
+}
+#row6-col3{
+    border-radius: 0px 25px 25px 25px;
+    color: rgb(255,255,255);
+    padding-top: 0px;
+    padding-bottom: 100px;
+    margin-right: 5px;
+   
+    text-align: center;
+    background-color: rgb(1, 220, 239);
+    width: 304px;
+    float: right;
+    
+}
+#row7-col1-2{
+    
+    color: rgb(255,255,255);
+    width: 960px;
+    
+    clear:both;
+}
+#row7-col1{
+    border-radius: 25px 25px 25px 25px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: rgb(255,255,255);
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    
+    width: 640px;
+    float:left;
+}
+#row7-col2{
+    border-radius: 25px 25px 25px 25px;
+    color: rgb(255,255,255);
+    padding-top: 139px;
+    padding-bottom:111px;
+    background-image: url(images/coffee_bags_labeled.png);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    float: right;
+}
+
+#row8-col1-2{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255,255,255);
+    width: 640px;
+    float: left;
+    clear:both;
+}
+#row8-col1{
+    border-radius: 25px 25px 25px 25px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    color: rgb(255,255,255);
+   
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    width: 315px;
+    float:left;
+}
+#row8-col2{
+    border-radius: 25px 25px 25px 25px;
+    color: rgb(255,255,255);
+     padding-top: 30px;
+    padding-bottom: 39px;
+    
+    text-align: center;
+    background-color: rgb(218, 240, 237);
+    width: 314px;
+    float: right;
+}
+#row8-col3{
+    border-radius: 25px 25px 25px 25px;
+    margin-top: 10px;
+    color: rgb(255,255,255);
+    padding-top: 39px;
+    padding-bottom: 55px;
+    text-align: center;
+    background-color: rgb(209, 228, 230);
+    width: 310px;
+    float: right;
+    
+}
+#row9{
+    margin-top: 230px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    clear: both;
+    color: rgb(255,255,255);
+    text-align: center;
+    
+    background-color: rgb(218, 240, 237);
+}
+#side_nav{
+  width: 210px;
+    float: left;
+    clear: both;
+}
+
+
+
+ 
+#side_nav_top{
+    color: rgb(255,255,255);
+    
+    margin-top: 0px;
+   padding-top: 35px;
+    padding-bottom: 35px;
+     width: 200px;
+    text-align: left;
+    background-color: rgb(218, 240, 237);
+    float:left;
+}   
+#side_nav_bottom{
+    color: rgb(255,255,255);
+    width: 200px;
+    text-align: center;
+    float:left;
+    margin-top: 10px;
+      padding-top: 35px;
+      padding-bottom: 35px;
+    background-color: rgb(218, 240, 237);
+    
+}
+
+#side_nav_main{
+    margin-top: 0px;
+    padding-bottom: 280px;
+    padding-top: 235px;
+    width: 750px;
+    float: right;
+    color: rgb(255,255,255);
+    text-align: center;
+    background-image: url(images/menu2.png);
+    background-color: rgb(250, 7, 16);
+}
+a:link {
+    
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgb(0,0,0);
+}
+
+
+a:active {
+    color: rgb(245,10,10);
+    background-color: rgb(245,237,10);
+    
+}
+a:hover {
+    
+    text-decoration: underline;
+    color: rgb(250,130,12);
+}
+a:visited {
+     color: rgb(153,0,255);
+    text-transform: capitalize;
+}
